@@ -1,7 +1,7 @@
 # 🏪 BookStore-Sales-Report
 
-!gif
 
+<img src="FinalDashboard.gif" alt="Dashboard" width="800"/>
 
 
 ## Project Overview
