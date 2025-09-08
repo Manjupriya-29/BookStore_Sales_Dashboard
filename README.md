@@ -69,6 +69,22 @@ We used SQL as our single source of truth to validate all calculations and busin
 
 **SQL Queries Document**: https://1drv.ms/w/c/15952eaab4be6fea/EcmHFciJ9NtOhMmNX59X3HEBDBod4RR3GMFQmuexahe4Pw?e=nwUuKA
 
+## Power BI Use Cases: 
+
+1. *Data Visualization & Business Insights* :
+We used Power BI to transform validated data into interactive dashboards that highlight daily and monthly sales trends, percentage contributions by genre, and top/bottom performing books.
+
+
+2. *Storytelling with Data* :
+Power BI was used to present the validated data in an intuitive and visual format, making it easier to identify sales patterns, genre contributions, and best-selling books.
+
+
+3. *Performance Monitoring & Decision Support* :
+Power BI served as the primary tool for monitoring sales performance, tracking daily and monthly order trends, and identifying key revenue drivers through visual insights.
+
+<img src="Bookstore_Dashboard1.png" width="600"> 
+<img src="Bookstore_Dashboard2.png" width="600">
+
 ## Dashboard Build 
 
 ### 📉 Charts
@@ -80,6 +96,7 @@ We used SQL as our single source of truth to validate all calculations and busin
 -  **Design Choice**: Donut chart to clearly show part-to-whole relationships and emphasize the contribution of each genre.
 -  **Data Organization**: Sorted categories by their percentage of total sales.
 -  **Insights Gained**: This enables quick identification of the most popular genre, noting that the Romance Genre generates the highest proportion of revenue.
+-  
 
 #### 📅 Daily Trend for Total Orders - Column Chart
 
