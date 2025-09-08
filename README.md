@@ -97,16 +97,17 @@ Power BI served as the primary tool for monitoring sales performance, tracking d
 -  **Data Organization**: Sorted categories by their percentage of total sales.
 -  **Insights Gained**: This enables quick identification of the most popular genre, noting that the Romance Genre generates the highest proportion of revenue.
 
--  <img src="Bookstore_Dashboard1.png" width="600"> 
--  
+-  <img src="Chart1.png" width="300"> 
 
-#### 📅 Daily Trend for Total Orders - Column Chart
+-  #### 📊 Total Books sold by Genre - Stacked Bar Chart
 
 - **Power BI Features**: 
-Utilized a clustered column chart with conditional formatting applied to the bars based on order value.
-- **Design Choice**: Vertical columns to effectively show and compare order volumes across days of the week.
-- **Data Organization**: Used a custom 'Day Number' column to ensure correct sorting from Sunday to Saturday.
-- **Insights Gained**: Instantly reveals the busiest days of the week (Friday and Saturday), which is crucial for staffing and inventory planning.
+Utilized the funnel chart visual to represent a progressive process.
+- **Design Choice**: A Bar Chart to intuitively show which category has the highest volume of pizzas sold, creating a clear visual hierarchy.
+- **Data Representation**: Plotted the total quantity of books sold for each Genre.
+- **Insights Gained**: Enables a quick grasp of volume disparities between categories, highlighting that the Mystery Genre Category sells the most units.
+
+-  <img src="Chart2.png" width="300">
 
 #### 📈 Monthly Trend for Orders - Area Chart
 
@@ -117,13 +118,18 @@ Utilized an area chart with markers to highlight data points and a shaded area f
 - **Insights Gained**: Clearly identifies seasonal trends and peak months, helping in 
 long-term business planning and marketing strategy.
 
-#### 📊 Total Books sold by Genre - Stacked Bar Chart
+-  <img src="Chart3.png" width="300">
+
+#### 📅 Daily Trend for Total Orders - Column Chart
 
 - **Power BI Features**: 
-Utilized the funnel chart visual to represent a progressive process.
-- **Design Choice**: A Bar Chart to intuitively show which category has the highest volume of pizzas sold, creating a clear visual hierarchy.
-- **Data Representation**: Plotted the total quantity of books sold for each Genre.
-- **Insights Gained**: Enables a quick grasp of volume disparities between categories, highlighting that the Mystery Genre Category sells the most units.
+Utilized a clustered column chart with conditional formatting applied to the bars based on order value.
+- **Design Choice**: Vertical columns to effectively show and compare order volumes across days of the week.
+- **Data Organization**: Used a custom 'Day Number' column to ensure correct sorting from Sunday to Saturday.
+- **Insights Gained**: Instantly reveals the busiest days of the week (Friday and Saturday), which is crucial for staffing and inventory planning.
+
+-  <img src="Chart4.png" width="300">
+
 
 ---
 
