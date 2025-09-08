@@ -7,9 +7,9 @@
 ## Project Overview
 -- Book store Sales Dashboard analyzes over 500 book sales transactions, enabling users to explore sales trends, performance by genre, and identify top-selling books and authors through dynamic charts and KPIs.
 
-### Dashboard File:
+### Dataset :
 
-My Final Dashboard is in 
+https://1drv.ms/x/c/15952eaab4be6fea/Eck8r09BnkNFnmosUqHV1x4Bjl3muWfVKRM_R_1yc90sUQ?e=BLjJm4
 
 ### Key Features:
 
@@ -126,7 +126,7 @@ long-term business planning and marketing strategy.
 Utilized a clustered column chart with conditional formatting applied to the bars based on order value.
 - **Design Choice**: Vertical columns to effectively show and compare order volumes across days of the week.
 - **Data Organization**: Used a custom 'Day Number' column to ensure correct sorting from Sunday to Saturday.
-- **Insights Gained**: Instantly reveals the busiest days of the week (Friday and Saturday), which is crucial for staffing and inventory planning.
+- **Insights Gained**: Instantly reveals the busiest days of the week (Saturday), which is crucial for staffing and inventory planning.
 
 -  <img src="Chart4.png" width="300">
 
