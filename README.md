@@ -67,6 +67,8 @@ The dataset used for this Project contains real-world book store sales informati
 
 We used SQL as our single source of truth to validate all calculations and business logic before building visualizations. By writing complex queries to calculate KPIs, filter data, and analyze trends, we ensured the accuracy and reliability of the metrics displayed in Power BI. This foundational step guaranteed that our dashboard insights were built on verified data.
 
+**SQL Queries Document**: https://1drv.ms/w/c/15952eaab4be6fea/EcmHFciJ9NtOhMmNX59X3HEBDBod4RR3GMFQmuexahe4Pw?e=nwUuKA
+
 ## Dashboard Build 
 
 ### 📉 Charts
