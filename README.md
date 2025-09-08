@@ -96,6 +96,8 @@ Power BI served as the primary tool for monitoring sales performance, tracking d
 -  **Design Choice**: Donut chart to clearly show part-to-whole relationships and emphasize the contribution of each genre.
 -  **Data Organization**: Sorted categories by their percentage of total sales.
 -  **Insights Gained**: This enables quick identification of the most popular genre, noting that the Romance Genre generates the highest proportion of revenue.
+
+-  <img src="Bookstore_Dashboard1.png" width="600"> 
 -  
 
 #### 📅 Daily Trend for Total Orders - Column Chart
